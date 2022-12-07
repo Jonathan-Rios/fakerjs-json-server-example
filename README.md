@@ -9,7 +9,6 @@
     src="https://img.shields.io/badge/JsonServer-%5E0.17.1-blue"
     alt="Typescript Ver. 4.6.4" 
   />
-
   <img 
     alt="License"
     src="https://img.shields.io/static/v1?label=license&message=MIT&color=E51C44&labelColor=0A1033"
