@@ -2,16 +2,12 @@
 
 <p align="center">
   <img 
-    src="https://img.shields.io/badge/@faker-js/faker-%5E7.6.0-blue" 
+    src="https://img.shields.io/badge/FakerJs-%5E7.6.0-blue" 
     alt="React Ver. ^18.1.0"
   />
   <img 
-    src="https://img.shields.io/badge/json-server-%5E0.17.1-blue"
+    src="https://img.shields.io/badge/JsonServer%5E0.17.1-blue"
     alt="Typescript Ver. 4.6.4" 
-  />
-  <img
-    src="https://img.shields.io/badge/Ignite-2022-green" 
-    alt="Ignite-2022"
   />
 
   <img 
