@@ -1,4 +1,4 @@
-<h1 align="center">Title - Subtitle</h1>
+<h1 align="center">Exemplo de utilização do FakerJs & Json-Server</h1>
 
 <p align="center">
   <img 
