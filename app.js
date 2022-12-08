@@ -3,9 +3,11 @@ const fs = require("fs");
 
 const generateUsersData = (number) => {
   const users = [];
-  while (number >= 0) {
+  let counter = 1;
+
+  while (counter <= number) {
     users.push({
-      id: number,
+      id: counter,
       name: faker.name.fullName(),
       description: faker.lorem.paragraphs(2),
       picture: faker.image.avatar(),
@@ -15,8 +17,9 @@ const generateUsersData = (number) => {
       },
       roleId: faker.helpers.arrayElement([1, 2, 3]),
     });
-    number--;
+    counter++;
   }
+
   return users;
 };
 
